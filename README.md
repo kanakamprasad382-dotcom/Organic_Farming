@@ -1,1 +1,1 @@
-# Organic_Farming
+https://ai-farmer-tech.vercel.app/
